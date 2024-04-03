@@ -3,7 +3,7 @@
 - MySQL
 - Xampp Server
 - PHP
-- Android Phone for testiing
+- Android Phone for testing (preferrably) or Android emulator
   
 **VIDEO DEMO**
 
